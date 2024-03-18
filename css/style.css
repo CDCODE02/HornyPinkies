@@ -568,6 +568,10 @@ a:focus {
   fill: #0f0616;
 }
 
+.header-image-graphic {
+  width: 50%;
+  max-width: 22.5rem;
+}
 .why_section .box h5 {
   font-weight: bold;
   margin-bottom: 10px;
